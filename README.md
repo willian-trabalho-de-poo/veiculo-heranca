@@ -1,3 +1,3 @@
-# veiculo-herenca
+# veiculo-heranca
 
 ![alt text](diagrama.jpg)
